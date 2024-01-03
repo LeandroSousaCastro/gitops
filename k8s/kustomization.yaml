@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: leandrocastro/gitops
-  newTag: aa47e35c960f6154c6b79725d2da9efe19838b31
+  newTag: 1f436c5e5e52224c8d287f1a59c3ff8b55558eca
